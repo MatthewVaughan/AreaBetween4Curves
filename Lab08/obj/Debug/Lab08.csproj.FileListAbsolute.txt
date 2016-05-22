@@ -1,0 +1,13 @@
+c:\users\mattm_000\documents\visual studio 2015\Projects\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\obj\Debug\Lab08.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab08\Lab08\obj\Debug\Lab08.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\obj\Debug\Lab08.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\obj\Debug\Lab08.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\bin\Debug\Lab08.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\bin\Debug\Lab08.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1400\Lab09\Lab08\obj\Debug\Lab08.csprojResolveAssemblyReference.cache
